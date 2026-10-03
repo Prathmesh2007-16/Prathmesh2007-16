@@ -13,7 +13,6 @@
   <a href="https://portfolio-five-lemon-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7c5cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/prathmesh-chaure-b38612335"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:chaureprathmesh06@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-00b8d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ping/?username=Prathmesh2007-16&label=Profile+views&color=7c5cff&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -72,16 +71,15 @@ endmodule
 
 ## 🚀 Featured Projects
 
-<!-- TODO: replace each "#" link with the real repo URL once the repo is uploaded -->
-
-| Project | What it is | Stack |
-|---|---|---|
-| **[Traffic Light Controller (FSM)](https://github.com/Prathmesh2007-16?tab=repositories)** | FSM-based controller with defined states and transition logic, verified through simulation and waveforms | `Verilog` `ModelSim` |
-| **[16-bit ALU](https://github.com/Prathmesh2007-16?tab=repositories)** | Multi-operation ALU verified with a dedicated testbench | `Verilog` `Testbench` |
-| **[4-bit Ripple Carry Adder](https://github.com/Prathmesh2007-16?tab=repositories)** | Structural adder built from full-adder blocks | `Verilog` |
-| **[Obstacle Avoiding Car](https://github.com/Prathmesh2007-16?tab=repositories)** | ESP32 prototype with obstacle sensors and motor control | `ESP32` `C++` |
-| **[Smart Car Parking](https://github.com/Prathmesh2007-16?tab=repositories)** | Arduino parking system that tracks availability with sensors | `Arduino` |
-| **[PrivX](https://github.com/Prathmesh2007-16?tab=repositories)** | ML / software project | `Python` |
+| Project | What it is | Stack | Repo |
+|---|---|---|---|
+| **PrivX** | Full-stack project: TypeScript app with a Python backend | `TypeScript` `Python` | [PrivX](https://github.com/Prathmesh2007-16/PrivX) · [backend](https://github.com/Prathmesh2007-16/privx-backend) · [app](https://github.com/Prathmesh2007-16/privx-app-2026) |
+| **Banking System** | Python-based banking system mini project | `Python` | [Banking_System](https://github.com/Prathmesh2007-16/Banking_System) |
+| **Portfolio Website** | My animated portfolio, live on the web | `HTML` `CSS` `JS` | [Code](https://github.com/Prathmesh2007-16/portfolio) · [Live](https://portfolio-five-lemon-47.vercel.app/) |
+| **Traffic Light Controller (FSM)** | FSM-based controller verified through simulation and waveforms | `Verilog` `ModelSim` | 🔜 uploading soon |
+| **16-bit ALU** | Multi-operation ALU verified with a dedicated testbench | `Verilog` `Testbench` | 🔜 uploading soon |
+| **Obstacle Avoiding Car** | ESP32 prototype with obstacle sensors and motor control | `ESP32` `C++` | 🔜 uploading soon |
+| **Smart Car Parking** | Arduino parking system that tracks availability with sensors | `Arduino` | 🔜 uploading soon |
 
 > 📌 More projects are on the way. See all repositories → [github.com/Prathmesh2007-16](https://github.com/Prathmesh2007-16?tab=repositories)
 
