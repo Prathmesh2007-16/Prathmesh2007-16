@@ -15,7 +15,11 @@
   <a href="mailto:chaureprathmesh06@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-00b8d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal"/>
+</p>
+
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 👨‍💻 About Me
 
@@ -38,9 +42,13 @@ endmodule
 - 🎯 **Looking for:** VLSI / RTL design & verification internships
 - 🌐 **Portfolio:** [portfolio-five-lemon-47.vercel.app](https://portfolio-five-lemon-47.vercel.app/)
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="./orbit.svg" width="85%" alt="Skills orbit"/>
+</p>
 
 **VLSI / EDA**
 
@@ -67,7 +75,7 @@ endmodule
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🚀 Featured Projects
 
@@ -83,7 +91,7 @@ endmodule
 
 > 📌 More projects are on the way. See all repositories → [github.com/Prathmesh2007-16](https://github.com/Prathmesh2007-16?tab=repositories)
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🏆 Highlights
 
@@ -91,7 +99,7 @@ endmodule
 - 💼 **Internships & programs:** VLSI at UptoSkills · Machine Learning at CodeAlpha · Python with AI at EWB Courses · Data Analytics with AI (AICTE | IBM SkillsBuild)
 - 🎓 **Course:** Complete ASIC Design Flow: VLSI From Idea to Silicon (45.5 hrs)
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 📊 GitHub Stats
 
@@ -104,7 +112,7 @@ endmodule
   <img src="https://streak-stats.demolab.com?user=Prathmesh2007-16&theme=tokyonight&hide_border=true&background=0d1117&ring=7c5cff&fire=00e5ff&currStreakLabel=00e5ff" alt="GitHub streak"/>
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🐍 Contribution Snake
 
@@ -112,7 +120,7 @@ endmodule
   <img src="https://raw.githubusercontent.com/Prathmesh2007-16/Prathmesh2007-16/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
----
+<p align="center"><img src="./divider.svg" width="100%" alt=""/></p>
 
 ## 🤝 Let's Connect
 
