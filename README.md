@@ -82,6 +82,7 @@ endmodule
 | Project | What it is | Stack | Repo |
 |---|---|---|---|
 | **Credit Scoring Model** | Predicts good vs bad credit risk with feature engineering and four tuned models (CodeAlpha ML internship) | `Python` `scikit-learn` | [CodeAlpha_Credit_Scoring_Model](https://github.com/Prathmesh2007-16/CodeAlpha_Credit_Scoring_Model) |
+| **Handwritten Digit Recognition** | CNN that reads handwritten digits with 99.07% test accuracy, plus a live draw-and-predict app (CodeAlpha ML internship) | `Python` `TensorFlow` `Keras` | [CodeAlpha_Handwritten_Character_Recognition](https://github.com/Prathmesh2007-16/CodeAlpha_Handwritten_Character_Recognition) |
 | **PrivX** | Full-stack project: TypeScript app with a Python backend | `TypeScript` `Python` | [PrivX](https://github.com/Prathmesh2007-16/PrivX) · [backend](https://github.com/Prathmesh2007-16/privx-backend) · [app](https://github.com/Prathmesh2007-16/privx-app-2026) |
 | **Banking System** | Python-based banking system mini project | `Python` | [Banking_System](https://github.com/Prathmesh2007-16/Banking_System) |
 | **Portfolio Website** | My animated portfolio, live on the web | `HTML` `CSS` `JS` | [Code](https://github.com/Prathmesh2007-16/portfolio) · [Live](https://portfolio-five-lemon-47.vercel.app/) |
